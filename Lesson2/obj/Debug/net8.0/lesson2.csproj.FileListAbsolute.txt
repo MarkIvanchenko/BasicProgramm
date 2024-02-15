@@ -1,0 +1,15 @@
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\obj\Debug\net8.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\obj\Debug\net8.0\lesson2.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\obj\Debug\net8.0\lesson2.AssemblyInfo.cs
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\obj\Debug\net8.0\lesson2.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\obj\Debug\net8.0\lesson2.sourcelink.json
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\bin\Debug\net8.0\lesson2.exe
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\bin\Debug\net8.0\lesson2.deps.json
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\bin\Debug\net8.0\lesson2.runtimeconfig.json
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\bin\Debug\net8.0\lesson2.dll
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\bin\Debug\net8.0\lesson2.pdb
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\obj\Debug\net8.0\lesson2.dll
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\obj\Debug\net8.0\refint\lesson2.dll
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\obj\Debug\net8.0\lesson2.pdb
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\obj\Debug\net8.0\lesson2.genruntimeconfig.cache
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson2\obj\Debug\net8.0\ref\lesson2.dll
