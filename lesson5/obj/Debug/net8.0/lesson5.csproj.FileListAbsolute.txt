@@ -1,0 +1,15 @@
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\bin\Debug\net8.0\lesson5.exe
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\bin\Debug\net8.0\lesson5.deps.json
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\bin\Debug\net8.0\lesson5.runtimeconfig.json
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\bin\Debug\net8.0\lesson5.dll
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\bin\Debug\net8.0\lesson5.pdb
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\obj\Debug\net8.0\lesson5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\obj\Debug\net8.0\lesson5.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\obj\Debug\net8.0\lesson5.AssemblyInfo.cs
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\obj\Debug\net8.0\lesson5.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\obj\Debug\net8.0\lesson5.sourcelink.json
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\obj\Debug\net8.0\lesson5.dll
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\obj\Debug\net8.0\refint\lesson5.dll
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\obj\Debug\net8.0\lesson5.pdb
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\obj\Debug\net8.0\lesson5.genruntimeconfig.cache
+C:\Users\Mark\Desktop\HomeWork\Geek Brains\BasicProger\lesson5\obj\Debug\net8.0\ref\lesson5.dll
