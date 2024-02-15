@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mark\\Desktop\\HomeWork\\Geek Brains\\BasicProger\\lesson1\\lesson1.csproj": {}
+    "C:\\Users\\Mark\\Desktop\\HomeWork\\Geek Brains\\BasicProger\\Lesson1\\lesson1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mark\\Desktop\\HomeWork\\Geek Brains\\BasicProger\\lesson1\\lesson1.csproj": {
+    "C:\\Users\\Mark\\Desktop\\HomeWork\\Geek Brains\\BasicProger\\Lesson1\\lesson1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mark\\Desktop\\HomeWork\\Geek Brains\\BasicProger\\lesson1\\lesson1.csproj",
+        "projectUniqueName": "C:\\Users\\Mark\\Desktop\\HomeWork\\Geek Brains\\BasicProger\\Lesson1\\lesson1.csproj",
         "projectName": "lesson1",
-        "projectPath": "C:\\Users\\Mark\\Desktop\\HomeWork\\Geek Brains\\BasicProger\\lesson1\\lesson1.csproj",
+        "projectPath": "C:\\Users\\Mark\\Desktop\\HomeWork\\Geek Brains\\BasicProger\\Lesson1\\lesson1.csproj",
         "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mark\\Desktop\\HomeWork\\Geek Brains\\BasicProger\\lesson1\\obj\\",
+        "outputPath": "C:\\Users\\Mark\\Desktop\\HomeWork\\Geek Brains\\BasicProger\\Lesson1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mark\\AppData\\Roaming\\NuGet\\NuGet.Config"
